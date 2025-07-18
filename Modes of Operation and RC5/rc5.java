@@ -71,6 +71,3 @@ public class RC5 {
     }
 }
 
-PS D:\4th Year 1st Semester\ICT-4105 Cryptography and Cyber Law\Modes of Operation and RC5> 
-Ciphertext: 70e77036 27731364
-Decrypted: 12345678 9abcdef0
